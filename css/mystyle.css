@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+*{
+	font-size: "Roboto";
+}
+.all-100{
+	width: 100%;
+	height: 800px;
+	margin-bottom: 30px;
+	background-image: url(../img/grupal.jpg);
+	background-size: 100% 800px;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.txt-img{
+	font-size: 15px;
+	margin-top: 10px;
+}
+p:first-child{
+	margin-top: 20px;
+	color: white;
+}
+.vertical-space{
+	margin-top: 0px;
+}
+.logo-img{
+	position: absolute;
+	left:390px;
+	top: 100px;
+	width: 500px;
+}
+div a{
+	text-decoration: none;
+	color: black;
+	margin: 0px 5px;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+.boton{
+	color: black;
+	background-color: #FCB739;
+	text-align: center;
+	padding: 8px 15px;
+	border-radius: 5px;
+	position: absolute;
+	left: 130px;
+	top: 80px;
+}
+.ink-navigation{
+	width: 100%;
+	height:100px;
+	position: relative;
+}
+
+.bloque3{
+	position: absolute;
+	top: 80px;
+	left: 950px;
+	width: 300px;
+}
